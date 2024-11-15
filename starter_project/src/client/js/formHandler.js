@@ -88,6 +88,3 @@ function isValidURL(string) {
   return res !== null;
 }
 
-
-
-});
